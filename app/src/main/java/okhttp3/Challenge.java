@@ -16,7 +16,7 @@
 package okhttp3;
 
 import java.nio.charset.Charset;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import static okhttp3.internal.Util.ISO_8859_1;
 

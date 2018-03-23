@@ -17,7 +17,7 @@ package okhttp3;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 /**
  * Observes, modifies, and potentially short-circuits requests going out and the corresponding

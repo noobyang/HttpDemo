@@ -18,7 +18,7 @@ package okhttp3.internal.platform;
 import java.security.NoSuchAlgorithmException;
 import java.security.Provider;
 import java.util.List;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLSocket;
 import javax.net.ssl.SSLSocketFactory;

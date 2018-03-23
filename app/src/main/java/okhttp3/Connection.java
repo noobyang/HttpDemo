@@ -17,7 +17,7 @@
 package okhttp3;
 
 import java.net.Socket;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 /**
  * The sockets and streams of an HTTP, HTTPS, or HTTPS+HTTP/2 connection. May be used for multiple

@@ -27,7 +27,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.EventListener;

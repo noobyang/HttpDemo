@@ -25,7 +25,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import okhttp3.RealCall.AsyncCall;
 import okhttp3.internal.Util;
 

@@ -18,7 +18,7 @@ package okhttp3;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import okhttp3.internal.Util;
 import okio.BufferedSink;
 import okio.ByteString;

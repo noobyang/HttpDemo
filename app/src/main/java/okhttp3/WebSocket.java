@@ -15,7 +15,7 @@
  */
 package okhttp3;
 
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import okio.ByteString;
 
 /**

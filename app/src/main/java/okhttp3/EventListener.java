@@ -20,7 +20,7 @@ import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.net.Proxy;
 import java.util.List;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 /**
  * Listener for metrics events. Extend this class to monitor the quantity, size, and duration of

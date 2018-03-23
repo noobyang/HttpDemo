@@ -16,7 +16,7 @@
 package okhttp3;
 
 import java.io.IOException;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 /**
  * Responds to an authentication challenge from either a remote web server or a proxy server.

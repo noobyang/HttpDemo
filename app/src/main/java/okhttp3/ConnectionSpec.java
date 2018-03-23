@@ -17,7 +17,7 @@ package okhttp3;
 
 import java.util.Arrays;
 import java.util.List;
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 import javax.net.ssl.SSLSocket;
 import okhttp3.internal.Util;
 
